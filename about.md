@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Ruyuan, an explorer based in Edinburgh now. I'm passionate about data and design.
+Hi, I'm Ruyuan, an explorer based in Edinburgh now. I'm passionate about data and design. This is a diary of my reading and thinking in order to save my poor memory and motivate me to keep learning. 
 
 ### Education
 
