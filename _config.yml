@@ -65,10 +65,10 @@ disqus: Rouwanzi #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 36e9c2c9eff5091a95be
+  clientSecret: fde66674baec49cd73c2e2cb6d0913309abba099
+  repo: https://rouwanzii.github.io/
+  owner: Rouwanzi
 
 # 输入Google Analytics web tracking code
 google_analytics:
