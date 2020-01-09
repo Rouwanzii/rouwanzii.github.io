@@ -1,7 +1,15 @@
 ---
 layout: page
-title: 关于
+title: About Me
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+Hi, I'm Ruyuan, an explorer based in Edinburgh now. I'm passionate about data and design.
+
+### Education
+
+2019-2021 Msc. Advanced Design Informatics
+University of Edinburgh, Edinburgh, UK
+
+2015-2019 Bsc. Information Management and Information System
+East China Normal University, Shanghai, China
