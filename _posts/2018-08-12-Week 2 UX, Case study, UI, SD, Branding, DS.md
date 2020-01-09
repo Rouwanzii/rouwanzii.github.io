@@ -1,4 +1,3 @@
-## UX, Case study, UI, SD, Branding, DS
 ### UX research methods
 [A Comprehensive Guide to UX Research Methods | Adobe Blog](https://theblog.adobe.com/a-comprehensive-guide-to-ux-research-methods/)
 
